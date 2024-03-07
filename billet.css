@@ -1,0 +1,55 @@
+.text{ position: absolute;
+    top: 5%;
+    left: 45%;
+    right: 55%;
+    transform: translate(-20%, 25%);
+    color: white;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.txt{
+
+    position: absolute;
+    top: 5%;
+    left: 45%;
+    right: 55%;
+    bottom: 90%;
+    transform: translate(-20%, 300%);
+    color: white;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0);
+}
+
+.banner {
+        
+        background-size: cover;
+        height: 200px;
+        width: 1500px;
+}
+
+h3{
+    text-align: center;
+}
+
+body{
+    background-color:#DBDBD9 ;
+   
+}
+
+#villesh{ position: absolute;
+    top: 5%;
+    left: 45%;
+    right: 55%;
+    transform: translate(0%, 25%);
+    color: white;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
